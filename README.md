@@ -37,7 +37,7 @@ I love to travel and  listen to music.
 
 - 💬  &nbsp;Ask me anything about **PHP, JavaScript, WordPress, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
 
-- 📫  &nbsp;How to reach me **abirahmad@gmail.com** [Preferrable]
+- 📫  &nbsp;How to reach me **abir.ahmad007@gmail.com** [Preferrable]
 
 - 📫  &nbsp;Urgent Contact **+8801324328709**
 
