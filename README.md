@@ -35,7 +35,7 @@ I love to travel and  listen to music.
 
 - 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/abirahmad?tab=repositories](https://github.com/abirahmad?tab=repositories)
 
-- 💬  &nbsp;Ask me anything about **PHP, JavaScript, WordPress, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
+- 💬  &nbsp;Ask me anything about **PHP, JavaScript, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
 
 - 📫  &nbsp;How to reach me **abir.ahmad007@gmail.com** [Preferrable]
 
