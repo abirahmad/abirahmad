@@ -27,33 +27,32 @@ I love to travel and  listen to music.
 
 - 🔭  &nbsp; I’m currently working at **[Akij Group Ltd](https://akijplastics.com).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Wordpress**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
+- ✎ &nbsp; I’m currently working with  **PHP**, **Wordpress**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Flutter**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
 
-- ⭆  &nbsp; I’m currently learning **Rust**, **DevOps**, **Microservices**
+- ⭆  &nbsp; I’m currently learning **DevOps**, **Microservices**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
-- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
+- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/abirahmad?tab=repositories](https://github.com/abirahmad?tab=repositories)
 
 - 💬  &nbsp;Ask me anything about **PHP, JavaScript, WordPress, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
 
-- 📫  &nbsp;How to reach me **manirujjamanakash@gmail.com** [Preferrable]
+- 📫  &nbsp;How to reach me **abirahmad@gmail.com** [Preferrable]
 
-- 📫  &nbsp;Urgent Contact **+8801951233084** [Not Preferrable in Normal Case]
+- 📫  &nbsp;Urgent Contact **+8801324328709**
 
-- ⚡  &nbsp;Fun fact **I love to watch movies. Travelling also fascinates me a lot.P**
+- ⚡  &nbsp;Interested **Watching movies && TravellingP**
 
 - 🔥 &nbsp;My Greatest Power - **I can lead I can learn stuffs very quickly & implement on demand !**
 
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![abirahmad's Stats](https://github-readme-stats.vercel.app/api?username=abirahmad&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![abirahmad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abirahmad&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![abirahmad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirahmad&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hasin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hasin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-ahmad-98b272ba/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/abir.ahmad.56/)
