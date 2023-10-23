@@ -27,7 +27,7 @@ I love to travel and  listen to music.
 
 - 🔭  &nbsp; I’m currently working at **[Akij Group Ltd](https://akijplastics.com).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Wordpress**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Flutter**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
+- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Flutter**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
 
 - ⭆  &nbsp; I’m currently learning **DevOps**, **Microservices**
 
