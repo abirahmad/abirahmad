@@ -41,7 +41,7 @@ I love to travel and  listen to music.
 
 - 📫  &nbsp;Urgent Contact **+8801324328709**
 
-- ⚡  &nbsp;Interested **Watching movies && TravellingP**
+- ⚡  &nbsp;Interested **Watching movies && Travelling**
 
 - 🔥 &nbsp;My Greatest Power - **I can lead I can learn stuffs very quickly & implement on demand !**
 
