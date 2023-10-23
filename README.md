@@ -61,12 +61,3 @@ I love to travel and  listen to music.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirahmad" alt="abirahmad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ManiruzzamanAk" target="blank"><img src="https://img.shields.io/twitter/follow/ManiruzzamanAk?logo=twitter&style=for-the-badge" alt="ManiruzzamanAk" /></a> </p>
-
-
-<br />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirahmad&show_icons=true&locale=en&layout=compact&theme=radical" alt="abirahmad" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abirahmad&show_icons=true&locale=en&theme=radical" alt="abirahmad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirahmad&theme=radical" alt="abirahmad" /></p>
