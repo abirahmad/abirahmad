@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Talha Bin Syeed Abir.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@ I am the co-founder of [SquartuP](https://www.squartup.com/), an startup softwar
 I love to travel and  listen to music.
 
 
-- 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
+- 🔭  &nbsp; I’m currently working at **[Akij Group Ltd](https://akijplastics.com).**
 
 - ✎ &nbsp; I’m currently working with  **PHP**, **Wordpress**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
 
