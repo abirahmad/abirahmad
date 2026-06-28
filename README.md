@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Mc%20Wilford%20Paclar&fontSize=55&fontAlignY=38&fontColor=ffffff&color=gradient&customColorList=0,2,5,10,20](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Talha%20Bin%20Syeed%20Abir)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Talha%20Bin%20Syeed%20Abir" />
 </p>
 
 <!-- Typing animation -->
