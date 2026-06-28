@@ -1,63 +1,132 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Talha Bin Syeed Abir.</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Mc%20Wilford%20Paclar&fontSize=55&fontAlignY=38&fontColor=ffffff&color=gradient&customColorList=0,2,5,10,20](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Talha%20Bin%20Syeed%20Abir)" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/ipacs13">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78FEE&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Tech+Explorer;Builder+of+Cool+Things;AI+Tinkerer;Creative+Problem+Solver" />
+  </a>
+</p>
 
-I am a Full Stack Developer with a huge love for  React.js, Laravel, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+<!-- Profile badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ipacs13&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-F78FEE?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Based%20in-Philippines%20%F0%9F%87%B5%F0%9F%87%AD-0A66C2?style=flat" alt="location" />
+</p>
 
-I am the co-founder of [SquartuP](https://www.squartup.com/), an startup software farm.
+---
 
-I love to travel and  listen to music.
+### 👋 About Me
 
+```js
+const mc = {
+  role:       "Full-Stack Developer & Creative Builder",
+  stack:      ["Laravel", "Vue", "React", "Next.js", "Node.js"],
+  currently:  "Shipping a cannabis dispensary platform end-to-end",
+  exploring:  ["AI-assisted workflows", "Real-time systems", "AWS infra"],
+  mantra:     "Ship it, then make it sing."
+};
+```
 
-- 🔭  &nbsp; I’m currently working at **[Akij Group Ltd](https://akijplastics.com).**
+I build full-stack web apps that span clean Laravel backends, polished React/Vue frontends, and the AWS plumbing that holds it all together. Lately I've been deep on **AI-assisted development** — wiring Claude and Cursor into real workflows, not just toy demos.
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Flutter**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
+---
 
-- ⭆  &nbsp; I’m currently learning **DevOps**, **Microservices**
+### 🛠️ Tech Stack
 
-- 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
+<p align="center">
 
-- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/abirahmad?tab=repositories](https://github.com/abirahmad?tab=repositories)
+**Languages & Frameworks**
 
-- 💬  &nbsp;Ask me anything about **PHP, JavaScript, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-- 📫  &nbsp;How to reach me **abir.ahmad007@gmail.com** [Preferrable]
+**Databases & APIs**
 
-- 📫  &nbsp;Urgent Contact **+8801324328709**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-- ⚡  &nbsp;Interested **Watching movies && Travelling**
+**Cloud & Tooling**
 
-- 🔥 &nbsp;My Greatest Power - **I can lead I can learn stuffs very quickly & implement on demand !**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Numbers
-![abirahmad's Stats](https://github-readme-stats.vercel.app/api?username=abirahmad&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+**AI Workflow**
 
-![abirahmad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abirahmad&theme=darcula&hide_border=true)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-![abirahmad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirahmad&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+</p>
 
-### Where to find me
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-ahmad-98b272ba/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/abir.ahmad.56/)
+### 📊 GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirahmad&label=Profile%20views&color=0e75b6&style=flat" alt="abirahmad" /> </p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ipacs13&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&icon_color=F78FEE&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipacs13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&cache_seconds=86400" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirahmad" alt="abirahmad" /></a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ipacs13&theme=radical&hide_border=true&background=0D1117&ring=F78FEE&fire=F78FEE&currStreakLabel=F78FEE" alt="streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ipacs13&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipacs13&theme=react-dark&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="contribution graph" />
+</p>
+
+---
+
+### 🟩 Contribution Grid
+
+<p align="center">
+  <img alt="contribution grid" src="https://ghchart.rshah.org/39D353/ipacs13" />
+</p>
+<p align="center">
+  <sub>📍 Heads up: this grid renders best on GitHub's dark mode (transparent background). For the fully native look with month/day labels, visit my <a href="https://github.com/ipacs13">profile page</a>.</sub>
+</p>
+
+---
+
+### 🚀 What I'm Up To
+
+- 🌿 Building **DispensaryMate** — a Laravel-based platform for cannabis dispensary operations
+- 🧠 Translating product specs into clean instructions for AI coding agents
+- ☁️ Wrangling AWS infra (Bedrock, S3 multipart uploads, EC2)
+- 🎮 Designing gamification systems — achievements, missions, leaderboards
+- 📚 Always reading, breaking, fixing, repeating
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:wolfenstein13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ipacs13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mc-wilford-paclar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,10,20" />
+</p>
+
+<p align="center"><i>⚡ "Code is craft. Ship like an artist."</i></p>
