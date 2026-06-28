@@ -10,8 +10,8 @@
 
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ipacs13&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-F78FEE?style=flat" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=abirahmad&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack?style=flat" alt="focus" />
   <img src="https://img.shields.io/badge/Based%20in-Bangladedsh%20%F0%9F%87%B5%F0%9F%87%AD-0A66C2?style=flat" alt="location" />
 </p>
 
