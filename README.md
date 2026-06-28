@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I am full stack develop, I build efficient laravel beckend web apps and with clean react or next js frontend, and the server management that holds it all together. Now I am concetrating my focus on AI development, Agentic AI development.
+I am full stack developer, I build efficient laravel beckend web apps and with clean react or next js frontend, and the server management that holds it all together. Now I am concetrating my focus on AI development, Agentic AI development.
 
 ---
 
