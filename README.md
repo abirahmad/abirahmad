@@ -5,9 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/ipacs13">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78FEE&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Tech+Explorer;Builder+of+Cool+Things;AI+Tinkerer;Creative+Problem+Solver" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Entrepreneur+;Creative+Thinking;AI+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile badges -->
