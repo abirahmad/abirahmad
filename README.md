@@ -58,16 +58,16 @@ I am full stack develop, I build efficient laravel beckend web apps and with cle
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ipacs13&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&icon_color=F78FEE&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipacs13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abirahmad&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&icon_color=F78FEE&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirahmad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FEE&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ipacs13&theme=radical&hide_border=true&background=0D1117&ring=F78FEE&fire=F78FEE&currStreakLabel=F78FEE" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=abirahmad&theme=radical&hide_border=true&background=0D1117&ring=F78FEE&fire=F78FEE&currStreakLabel=F78FEE" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ipacs13&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abirahmad&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ I am full stack develop, I build efficient laravel beckend web apps and with cle
 ### 📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipacs13&theme=react-dark&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abirahmad&theme=react-dark&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="contribution graph" />
 </p>
 
 ---
@@ -86,31 +86,19 @@ I am full stack develop, I build efficient laravel beckend web apps and with cle
   <img alt="contribution grid" src="https://ghchart.rshah.org/39D353/ipacs13" />
 </p>
 <p align="center">
-  <sub>📍 Heads up: this grid renders best on GitHub's dark mode (transparent background). For the fully native look with month/day labels, visit my <a href="https://github.com/ipacs13">profile page</a>.</sub>
+  <sub>📍 Heads up: this grid renders best on GitHub's dark mode (transparent background). For the fully native look with month/day labels, visit my <a href="https://github.com/abirahmad">profile page</a>.</sub>
 </p>
-
----
-
-### 🚀 What I'm Up To
-
-- 🌿 Building **DispensaryMate** — a Laravel-based platform for cannabis dispensary operations
-- 🧠 Translating product specs into clean instructions for AI coding agents
-- ☁️ Wrangling AWS infra (Bedrock, S3 multipart uploads, EC2)
-- 🎮 Designing gamification systems — achievements, missions, leaderboards
-- 📚 Always reading, breaking, fixing, repeating
 
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:wolfenstein13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ipacs13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mc-wilford-paclar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abir.ahmad007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abirahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/talha-bin-syeed-abir-98b272ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,10,20" />
 </p>
-
-<p align="center"><i>⚡ "Code is craft. Ship like an artist."</i></p>
