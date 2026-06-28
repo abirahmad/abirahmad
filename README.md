@@ -11,25 +11,13 @@
 <!-- Profile badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abirahmad&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangladedsh%20%F0%9F%87%B5%F0%9F%87%AD-0A66C2?style=flat" alt="location" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-```js
-const mc = {
-  role:       "Full-Stack Developer & Creative Builder",
-  stack:      ["Laravel", "Vue", "React", "Next.js", "Node.js"],
-  currently:  "Shipping a cannabis dispensary platform end-to-end",
-  exploring:  ["AI-assisted workflows", "Real-time systems", "AWS infra"],
-  mantra:     "Ship it, then make it sing."
-};
-```
-
-I build full-stack web apps that span clean Laravel backends, polished React/Vue frontends, and the AWS plumbing that holds it all together. Lately I've been deep on **AI-assisted development** — wiring Claude and Cursor into real workflows, not just toy demos.
+I am full stack develop, I build efficient laravel beckend web apps and with clean react or next js frontend, and the server management that holds it all together. Now I am concetrating my focus on AI development, Agentic AI development.
 
 ---
 
@@ -45,8 +33,6 @@ I build full-stack web apps that span clean Laravel backends, polished React/Vue
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Databases & APIs**
 
